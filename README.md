@@ -3,7 +3,7 @@ Breast Cancer Prediction using Deep Learning Techniques
 	Department of CSE
 	K S Institution of technology
 
-Under the guidance of:   Prof. Aditya Pai H
+Under the guidance of:   Dr. Aditya Pai H
 
 Rohith K             1KS17CS062
 Shri Harsha Kulkarni 1KS17CS077
